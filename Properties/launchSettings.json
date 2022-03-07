@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MessageReceiverTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
